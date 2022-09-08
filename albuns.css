@@ -1,0 +1,109 @@
+.discografia{
+    text-align: center;
+}
+.discogrfia h1{
+    color: rgb(0, 0, 54);
+    margin: 1px 1px 1px 1px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.discografia p{
+    color: black;
+    margin: 2px 2px 2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Pirata{
+    text-align: center ;
+    background-color: rgb(52, 164, 255);
+    border-bottom: 5px;
+    border-color: rgb(0, 0, 54);
+}
+#Pirata h1{
+    color: rgb(0, 0, 54);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#Pirata img{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+#Pirata p{
+    color: black;
+    margin: 2px 2px 2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Pirata h2{
+    color:rgb(0, 0, 54) ;
+    padding-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Pirata a{
+    color:black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Anti-heroi{
+    text-align: center ;
+    background-color: rgb(165, 165, 165);
+    border-bottom: 5px;
+    border-color: rgb(80, 80, 80);
+}
+#Anti-heroi h1{
+    color: rgb(63, 63, 63);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#Anti-heroi img{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+#Anti-heroi p{
+    color: black;
+    margin: 2px 2px 2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Anti-heroi h2{
+    color:rgb(63, 63, 63) ;
+    padding-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Anti-heroi a{
+    color:black;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Lobos{
+    text-align: center ;
+    background-color: rgb(94, 94, 97);
+    border-bottom: 5px;
+    border-color: black;
+}
+#Lobos h1{
+    color: rgb(153, 152, 152);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+#Lobos img{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+#Lobos p{
+    color: black;
+    margin: 2px 2px 2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Lobos h2{
+    color:rgb(153, 152, 152) ;
+    padding-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Lobos a{
+    color:black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
